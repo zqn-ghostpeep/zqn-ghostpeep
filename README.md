@@ -2,7 +2,7 @@
 
 
 
-Introverted cave soul.
+Introverted cave soul
 
 Backend and mobile developer !frontend ["only when i have to", "too tedious sometimes"]
 
